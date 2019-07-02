@@ -1,0 +1,10 @@
+#Godot files.
+.import
+godot_headers
+
+#LibBTC.
+PIVX/src/libbtc
+
+#PIVX binaries.
+PIVX/bin
+PIVX/src/PIVX.o
